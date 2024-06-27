@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Hundred: Revolutionizing Cricket</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #ccc;
+        }
+        header {
+            background: #007BFF;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+        }
+        h1, h2 {
+            color: #007BFF;
+        }
+        p {
+            margin: 20px 0;
+        }
+        @media (max-width: 768px) {
+            .container {
+                width: 95%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The Hundred: Revolutionizing Cricket with the ECB's Innovative League</h1>
+        </header>
+        <section>
+            <h2>Introduction</h2>
+            <p>In recent years, the England and Wales Cricket Board (ECB) launched an ambitious and innovative cricket format known as The Hundred. This cricket league is designed to invigorate the sport with faster-paced games, aiming to attract a broader audience, including families and younger fans. The Hundred represents a significant shift in traditional cricket formats, focusing on simplicity and excitement.</p>
+        </section>
+        <section>
+            <h2>Format and Rules</h2>
+            <p>The Hundred features a unique format where each team faces 100 balls in their innings, a departure from the traditional overs-based gameplay found in T20 or One Day Internationals. This straightforward approach is designed to make the game easier to follow for newcomers.</p>
+            <ul>
+                <li>Each bowler can deliver a maximum of 20 balls per game, which can be bowled in sets of five or ten consecutive balls from the same end.</li>
+                <li>A change of ends occurs after every 10 balls.</li>
+                <li>Each bowling side gets a strategic timeout of up to two and a half minutes.</li>
+                <li>The powerplay, where only two fielders are allowed outside the inner circle, lasts for the first 25 balls.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Teams and Structure</h2>
+            <p>The Hundred comprises eight city-based franchise teams,<a href="https://shortcric.com/abatha-maqsood-worlds-first-hijab-wearing-cricketer/">four men’s and four women’s teams</a>
+four men’s and four women’s teams, representing various regions across England and Wales.</p>
+        </section>
+        <section>
+            <h2>Impact on Cricket</h2>
+            <p>The Hundred has been positioned by the ECB as a gateway to cricket's future, targeting increased attendance and viewership. One of its most significant impacts has been its approach to gender equality in sports.</p>
+        </section>
+        <section>
+            <h2>Criticisms and Challenges</h2>
+            <p>Despite its innovative approach, The Hundred has not been without its critics. Purists argue that it oversimplifies the game and strays too far from cricket’s traditional roots.</p>
+        </section>
+        <section>
+            <h2>Conclusion</h2>
+            <p>The Hundred, organized by the ECB, is a bold attempt to modernize cricket and make it accessible to a wider audience. As it continues to evolve, The Hundred could play a pivotal role in shaping the future of the game.</p>
+        </section>
+    </div>
+</body>
+</html>
